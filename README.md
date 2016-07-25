@@ -1,1 +1,3 @@
-# maui-artwork-plasma
+# artwork-desktop-theme-maui
+
+Maui Desktop (Plasma) Theme
